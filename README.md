@@ -9,7 +9,7 @@ Faculty of Pharmaceutical Sciences, Hokkaido University, Japan
 
 [Email](mailto:tsuruga.ryota.m9@elms.hokudai.ac.jp) · [ORCID](https://orcid.org/0009-0002-4724-3432) · [GitHub](https://github.com/RyotaTsuruga) · [J-GLOBAL](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202501004215767165)
 
-## Research Interests
+## Research keywords
 
 Dopamine · Basal Ganglia · Learning and Behavior
 
