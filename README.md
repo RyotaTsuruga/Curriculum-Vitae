@@ -30,10 +30,6 @@ My research focuses on the neural mechanisms of learning and behavioral adaptati
 1. Tsuruga, R., Tajika, Y., Minami, M., & Tsutsui-Kimura, I. **Dopamine dynamics as a regulatory mechanism for shifting between defensive and reward-seeking behaviors.** *Communications Biology*. Accepted June 5, 2026.
 2. Tsuruga, R., & Tsutsui-Kimura, I. **Dopamine prediction error signals drive diverse learning.** *Seitai no Kagaku*, 77(1), 23–26, 2026. [https://doi.org/10.11477/mf.037095310770010023](https://doi.org/10.11477/mf.037095310770010023)
 
-## References
-
-Available upon request.
-
 ---
 
 *Last updated: July 2026*
