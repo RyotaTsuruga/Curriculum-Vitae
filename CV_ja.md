@@ -5,7 +5,9 @@
 北海道大学 薬学部 薬学科  
 学部学生・研究者
 
-[GitHub](https://github.com/RyotaTsuruga) · [J-GLOBAL](https://jglobal.jst.go.jp/public/202501004215767165) · [English version](CV_en.md)
+**[English version](README.md)**
+
+[GitHub](https://github.com/RyotaTsuruga) · [J-GLOBAL](https://jglobal.jst.go.jp/public/202501004215767165)
 
 ## 研究概要
 
