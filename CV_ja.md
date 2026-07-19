@@ -7,7 +7,7 @@
 
 **[English version](README.md)**
 
-[メール](mailto:tsuruga.ryota.m9@elms.hokudai.ac.jp) · [ORCID](https://orcid.org/0009-0002-4724-3432) · [GitHub](https://github.com/RyotaTsuruga) · [J-GLOBAL](https://jglobal.jst.go.jp/public/202501004215767165)
+[メール](mailto:tsuruga.ryota.m9@elms.hokudai.ac.jp) · [ORCID](https://orcid.org/0009-0002-4724-3432) · [Researchmap](https://researchmap.jp/rtsuruga) · [GitHub](https://github.com/RyotaTsuruga) · [J-GLOBAL](https://jglobal.jst.go.jp/public/202501004215767165)
 
 ## 研究キーワード
 
