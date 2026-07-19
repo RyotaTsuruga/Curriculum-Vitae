@@ -5,7 +5,7 @@
 Fifth-year Undergraduate Student  
 Faculty of Pharmaceutical Sciences, Hokkaido University, Japan
 
-**[日本語版はこちら / Japanese version](CV_ja.md)**
+**[日本語版 / Japanese version](CV_ja.md)**
 
 [Email](mailto:tsuruga.ryota.m9@elms.hokudai.ac.jp) · [ORCID](https://orcid.org/0009-0002-4724-3432) · [GitHub](https://github.com/RyotaTsuruga) · [J-GLOBAL](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202501004215767165)
 
