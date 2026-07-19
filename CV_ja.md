@@ -30,10 +30,6 @@
 1. Tsuruga, R., Tajika, Y., Minami, M., & Tsutsui-Kimura, I. **Dopamine dynamics as a regulatory mechanism for shifting between defensive and reward-seeking behaviors.** *Communications Biology*. 2026年6月5日採択.
 2. 敦賀 瞭太・木村 生. **ドーパミン予測誤差シグナルがもたらす多様な学習.** 『生体の科学』77巻1号, 23–26頁, 2026年. [https://doi.org/10.11477/mf.037095310770010023](https://doi.org/10.11477/mf.037095310770010023)
 
-## 推薦者
-
-必要に応じて提示します。
-
 ---
 
 *最終更新：2026年7月*
